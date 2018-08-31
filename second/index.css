@@ -1,0 +1,61 @@
+.full {
+  width: 90%;
+  margin: auto;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.shapes {
+  border: solid black;
+}
+
+.shape {
+  display: inline-block;
+  margin-right: 2vw;
+}
+
+.tall {
+  background-color: #8a2be2;
+  height: 12vw;
+  width: 3vw;
+}
+
+.long {
+  background-color: #228b22;
+  height: 16vw;
+  width: 32vw;
+}
+
+.round {
+  background-color: #87ceeb;
+  border-radius: 8vw;
+  height: 16vw;
+  width: 16vw;
+}
+
+.sticky {
+  border: dotted black;
+}
+
+.note {
+  background-color: #fffacd;
+  height: 16vw;
+  width: 92%;
+  margin: 3vw;
+  box-shadow: 8px 8px 4px rgba(0,0,0,0.8);
+}
+
+.greeting {
+  color: #000080;
+  padding: 10vw;
+  border: solid 1px rgba(0,0,0,0.3);
+  box-shadow: 4px 4px 4px rgba(0,0,0,0.3);
+  width: 45%;
+  margin: auto;
+  margin-top: 20px;
+  font-family: Georgia;
+  font-weight: 900;
+  font-size: 3.2vw;
+  text-align: center;
+  letter-spacing: 4px;
+}
