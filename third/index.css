@@ -1,0 +1,29 @@
+.page-heading {
+  padding: 1.2vw;
+  background-color: #d8d8d8;
+  height: 10.9vw;
+}
+.menu-button,.s-1 {
+  background-color: #4a90e2;
+}
+.menu-button {
+  margin-left: 1.7vw;
+  height: 9.8vw;
+  width: 9.8vw;
+}
+.content-area {
+  padding: 6vw;
+  font-size: 2.3vw;
+}
+.s-2 {
+  background-color: #50e3c2;
+}
+.s-3 {
+  background-color: #b8e986;
+}
+.s-4 {
+  background-color: #f8e71c;
+}
+.str {
+  height: 14.6vw;
+}
